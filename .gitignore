@@ -1,0 +1,11 @@
+#编译产物
+*.class
+
+
+#运行数据
+tasks.txt
+
+
+#编译配置
+.vscode/
+.idea/
